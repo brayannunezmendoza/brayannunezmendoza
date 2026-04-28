@@ -64,7 +64,7 @@ Me chamo Brayan Nunez Mendoza, tenho 19 anos e estou morando em Sâo Paulo. Curs
 
 ---
 
-### 🌱Tecnologias em Aprendizado
+### 🌱Linguagens e Tecnologias em aprendizado 
   <img 
     align="left" 
     alt="React"
