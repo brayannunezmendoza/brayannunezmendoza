@@ -117,7 +117,7 @@ Me chamo Brayan Nunez Mendoza, tenho 19 anos e estou morando em Sâo Paulo. Curs
 />
 
 <p>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ManashDholey/ManashDholey/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/brayannunezmendoza/brayannunezmendoza/output/github-contribution-grid-snake.svg" />
 <p>
 
 <br/><br/>
